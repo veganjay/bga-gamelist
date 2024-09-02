@@ -21,14 +21,14 @@ A Fistful of Gold,public,2,Cards|Hand management
 AVES,beta,2-5,Cards|Hand management|Collection|Drafting
 Abalone,public,2,
 Abandon All Artichokes,public,2-4,Cards|Race|Deck Building
-Abyss,public,2-4,Cards|Hand management|Collection|Auction|Push your luck
+Abyss,public,2-5,Cards|Hand management|Collection|Auction|Push your luck
 After Us,public,2-6,Cards|Race|Deck Building
 Age of Champagne,public,1-4,Worker placement|Resource management|Engine building
 Age of Civilization,public,2-4,Worker placement|Resource management
 Agony Aunt,alpha,4,Trick-taking
 Agricola,public,1-4,Cards|Worker placement|Resource management
 Akropolis,public,1-4,Tile placement
-Alakablast,alpha,2-5,Hand management
+Alakablast,beta,2-5,Hand management
 Alhambra,public,2-6,Hand management|Tile placement|Area Majority|Collection
 All In,beta,2-5,Cards|Collection|Roll & Write
 Almadi,public,2-5,Tile placement|Collection
@@ -40,6 +40,7 @@ Amerigo,alpha,2-4,Tile placement
 Amyitis,public,2-4,Collection|Resource management
 Anachrony,public,1-4,Worker placement|Asymmetrical|Objectives|Resource management|Engine building
 Ancient Knowledge,public,2-4,Cards|Hand management|Drafting
+Aniversus,beta,2,Cards|Asymmetrical
 Apocalypse at the Zoo of Carson City,public,2-4,Cards|Collection
 Applejack,public,1-4,Tile placement
 Architects of the West Kingdom,public,2-5,Worker placement|Asymmetrical|Resource management
@@ -54,7 +55,7 @@ Auntie Mildred's list of random tasks,alpha,2,Dice|Worker placement|Race
 Aurum,alpha,3-4,Cards|Trick-taking
 Automobiles,public,2-5,Hand management|Race|Deck Building
 Azul,public,2-4,Tile placement|Drafting
-Azul: Summer Pavilion,alpha,2-4,Tile placement|Drafting
+Azul: Summer Pavilion,public,2-4,Tile placement|Drafting
 BANG!,public,4-7,Team|Roles|Player elimination
 BANG! Expansions,alpha,2-7,Team|Roles|Player elimination
 Baby Dinosaur Rescue,public,1-4,Cards|Hand management|Race|Cooperative
@@ -70,19 +71,21 @@ Bandido,public,1-4,Cards|Tile placement|Cooperative
 Bao la Kiswahili,public,2,
 Barbu,public,3-5,Cards|Trick-taking
 Barrage,public,1-4,Worker placement|Engine building
+Batalla de Coronas,beta,2,Dice|Worker placement|Push your luck
 Battle Sheep,public,2-4,Tile placement|Conquest
 Battle Spirits Saga,public,1-2,Cards|Hand management|Collection|Engine building
 Battle of LITS,public,2,Tile placement
 Battleships Pencil & Paper,public,2,
+Bauer,alpha,2-5,Cards
 Beam Me Up!,alpha,2,
-Belladone Bluff,alpha,2-4,Cards
+Belladone Bluff,beta,2-4,Cards
 Belote,public,4,Cards|Team|Trick-taking
 Betta,public,1-4,Tile placement|Collection
 Beyond the Sun,public,2-4,Worker placement|Area Majority|Objectives|Engine building
 Bids,public,3-6,Hand management|Auction
 Big Monster,public,2-6,Tile placement|Collection|Asymmetrical|Team|Drafting
 Big Time Soccer,public,2,Cards|Dice|Hand management
-Big Two,beta,2-4,Cards|Hand management|Trick-taking
+Big Two,public,2-4,Cards|Hand management|Trick-taking
 Biomos,public,2-4,Tile placement|Objectives
 Biyi,public,2,
 Blackjack,beta,1-7,Cards|Push your luck|Player elimination
@@ -90,50 +93,56 @@ Blaze,public,3-5,Cards|Hand management
 Block Arena,beta,2,
 Blood Rage,public,2-5,Cards|Hand management|Bluffing|Area Majority|Conquest|Drafting
 Blooms,public,2,Area Majority
+Blot,beta,2-5,Cards|Collection|Trick-taking
+Bloxo,beta,2-4,Tile placement
 Blue Skies,public,2-5,Hand management|Area Majority
 Bobail,public,2,
 Bohnanza,alpha,3-5,Cards|Hand management|Collection
 Bombay,public,2-5,Collection
+Bonsai,beta,1-4,Cards|Tile placement|Objectives|Resource management
 Boomerang,alpha,3-5,Area Majority|Collection
 Boomerang: Australia,public,2-4,Cards|Collection|Roll & Write|Drafting
 Boomerang: Europe,public,2-4,Cards|Collection|Roll & Write|Drafting
 Boomerang: USA,public,2-4,Cards|Collection|Roll & Write|Drafting
 Boreal,public,2,
 Boss Quest,public,2-5,Cards|Push your luck
+Botanicus,beta,2-4,Worker placement|Tile placement
 Botanik,beta,2,
+Bouncers,alpha,3,Trick-taking
 Break the Code,public,2-4,Communication
 Briscola,public,2-5,Cards|Hand management|Bluffing|Team|Auction|Trick-taking
 Bubblee Pop,public,2,
 Bug,public,2,
 Bunny Kingdom,public,2-4,Drafting
-Bunny Kingdom,alpha,2-4,
 Burgle Bros.,public,1-4,Cooperative|Asymmetrical
 Butterfly,public,2-5,Collection
 Buttons,public,2-4,Dice|Collection
 BuyWord,public,1-4,Word games
 Bärenpark,public,2-4,Tile placement|Collection|Objectives
 CATAN,public,3-4,Hand management|Resource management
-Caboodle,beta,2-4,Tile placement
 Cacao,public,2-4,Tile placement|Combos|Area Majority|Resource management
+Cairo Corridor,alpha,2,Tile placement
 Calypso,beta,4,Cards|Combos|Trick-taking
 Can't Stop,public,2-4,Dice|Race|Push your luck
 Can't Stop Express,public,1-10,Dice|Roll & Write
-Canasta,alpha,2-4 or 6,Cards|Hand management|Collection|Team
-Cannonades,alpha,2-5,Cards|Player elimination
+Canasta,beta,2-4 or 6,Cards|Hand management|Collection|Team
+Cannonades,beta,2-5,Cards|Player elimination
 Canosa,public,2,
 Canvas,public,1-5,Cards|Collection|Drafting
 Caper: Europe,public,2,Cards|Hand management|Drafting
 Captain Flip,public,2-5,Tile placement|Collection|Push your luck
+Capybara'n'Capyabara,alpha,2-4,Cards|Collection
 Caravan,public,2-4,Race|Collection
 Carcassonne,public,2-5,Tile placement
 Carcassonne: Hunters & Gatherers,public,2-5,Tile placement
 Cardiceo,public,2-6,Cards|Dice|Hand management
 Caribbean All Fours,public,4,Cards|Trick-taking
 Carnegie,public,1-4,Worker placement|Area Majority|Engine building
-Cartographers,beta,1-12,Tile placement|Roll & Write
+Cartographers,public,1-12,Tile placement|Roll & Write
+Castle Combo,alpha,2-5,Tile placement|Combos
 Castles of Caleira,public,2,Cards|Hand management|Collection
 Cat Café,public,2-4,Roll & Write
-Cat in the Box: Deluxe Edition,beta,2-5,Cards|Hand management|Trick-taking
+Cat in the Box: Deluxe Edition,public,2-5,Cards|Hand management|Trick-taking
 Catan,alpha,3-4,
 Caverna,public,1-7,Worker placement
 Caylus,public,2-5,Worker placement
@@ -146,7 +155,7 @@ Challengers,public,1-8,Cards|Deck Building
 Champions of Midgard,alpha,2-4,Dice|Worker placement
 Checkers,public,2,
 Cheez-Tricks,beta,2-5,Objectives|Trick-taking
-Chemical Overload,alpha,2-4,Deck Building
+Chemical Overload,beta,2-4,Deck Building
 Chess,public,2,
 Chicago Express,public,2-6,
 Chimera,alpha,3,Cards|Hand management|Team|Auction|Trick-taking
@@ -157,7 +166,7 @@ Chocolate Factory,public,1-4,Combos|Objectives|Resource management|Engine buildi
 Chromino,public,1-8,Tile placement
 Cicera Bigia,alpha,2 or 4,Cards
 Cinco,public,2-4 or 6,Hand management
-Circle Of Life: on the Savannah,alpha,2-5,Cards
+Circle Of Life: on the Savannah,beta,2-5,Cards
 Circle of Life,public,2,Area Majority
 Citadels,beta,2-8,Cards|Bluffing|Collection|Roles
 City of the Big Shoulders,public,2-4,Worker placement|Resource management
@@ -165,7 +174,7 @@ Claim,beta,2-4,Cards|Area Majority|Team|Auction|Trick-taking
 Clans of Caledonia,public,1-4,Worker placement|Resource management
 Clash of Decks,public,2,Cards|Hand management|Asymmetrical
 Cloud City,public,1-4,Tile placement
-Coal Baron,alpha,2-4,Worker placement|Area Majority|Resource management
+Coal Baron,beta,2-4,Worker placement|Area Majority|Resource management
 Codex Naturalis,public,2-4,Cards|Tile placement|Objectives
 Coin Age,beta,2,Area Majority
 Coinche,public,4,Cards|Team|Trick-taking
@@ -174,6 +183,7 @@ Color Flush,public,3-6,Cards|Area Majority|Collection
 Color Pop,public,2-5,Collection
 Colorado,public,2-4,Roll & Write
 Coloretto,public,2-5,Cards|Area Majority|Collection
+Colour Scapes,alpha,1-4,Tile placement
 Colt Express,public,2-6,Hand management|Bluffing|Collection
 Commander Chess,public,2,
 Con Sonar!,public,2-6,Cards|Dice
@@ -181,8 +191,9 @@ Concept,public,2-12,Cooperative|Communication
 Connect Four,public,2,
 Connect6,public,2,
 Conspiracy,public,1-4,Cards|Tile placement|Combos|Collection
-Cookie Addict!,alpha,2,
+Cookie Addict!,beta,2,
 Copenhagen,public,2-4,Cards|Hand management|Tile placement
+Cosmoctopus,alpha,1-4,Cooperative|Resource management|Engine building
 Cosmos: Empires,public,2-8,Engine building
 Coup,public,2-8,Cards|Bluffing|Speed|Roles|Player elimination
 Coupell,beta,2,Cards|Hand management|Cooperative|Word games
@@ -203,12 +214,15 @@ DVONN,beta,2,Tile placement
 Dai Hasami Shogi,alpha,2,
 Dance of Muses,alpha,2-4,Cards|Tile placement
 Dark Agent,public,1-6,Cards|Combos
+Darwin's Journey,alpha,1-4,Worker placement
 Daybreak,public,1-4,Cooperative|Resource management|Roles|Engine building
 Decrypto,public,4-8,Team|Word games
+Deliverance,alpha,1-4,Cards|Dice|Hand management|Combos|Cooperative|Asymmetrical|Conquest|Objectives|Resource management|Roles|Engine building|Drafting
 Detective Poker,public,3-4,Cards|Bluffing
 Deus,public,2-4,Hand management|Conquest|Objectives|Engine building
 Diablo,public,2,Dice|Player elimination
 Diam's,public,2-5,Cards|Hand management|Collection
+Diamonds,alpha,2-6,Cards|Hand management|Team|Trick-taking
 Dice Forge,public,2-4,Dice|Combos|Engine building
 Dice Hospital,public,2-4,Dice|Worker placement|Tile placement|Combos
 Dice Hospital: ER – Emergency Roll,public,2-6,Dice|Roll & Write
@@ -216,11 +230,12 @@ Dice Summoners,public,2,Cards|Dice|Hand management|Combos|Drafting
 Dice Theme Park,public,2-4,Dice|Worker placement|Hand management|Tile placement
 Diceathlon,public,1-12,Dice
 Diced Tomatoes,public,1-6,Dice|Collection|Push your luck
-Dicy Cards,alpha,2-4,Dice|Push your luck
+Dicy Cards,beta,2-4,Dice|Push your luck
 Dingo's Dreams,public,2-9,Tile placement|Race|Random|Asymmetrical|Objectives
 Dinner In Paris,public,2-4,Tile placement|Race|Collection
+DinoGenics,alpha,2-5,Worker placement
 Dinosaur Tea Party,public,3-5,
-Distilled,beta,2-5,Cards
+Distilled,public,2-5,Cards|Hand management|Collection|Resource management
 District Noir,public,2,Cards|Hand management|Bluffing|Collection|Drafting
 Divercité,beta,2,Tile placement
 Djambi,public,4,Conquest
@@ -233,13 +248,12 @@ Dominoes,public,1-4,Tile placement|Team
 Don't Go In There,public,2-5,Dice|Collection|Push your luck
 Donuts,public,2,
 Dots and Boxes,beta,2,Area Majority
-Dou Dizhu,beta,2-3,Cards|Hand management|Team|Auction|Trick-taking
+Dou Dizhu,public,2-3,Cards|Hand management|Team|Auction|Trick-taking
 Downforce,public,2-6,Hand management|Race|Auction
 Dracula vs Van Helsing,public,2,
-Draft & Write Records,beta,1-6,Cards|Roll & Write|Drafting
+Draft & Write Records,public,1-6,Cards|Roll & Write|Drafting
 Draft Cider,public,1-6,Cards|Hand management|Push your luck|Drafting
 Draftosaurus,public,2-5,Combos|Collection|Drafting
-DraftosaurusExp,alpha,2-5,Combos|Collection
 Dragon Bridge,public,2,Hand management|Asymmetrical
 Dragon Castle,public,2-4,Tile placement
 Dragon Keeper: The Dungeon,public,2-4,Collection
@@ -255,6 +269,7 @@ ECK,beta,1,Cards|Trick-taking
 EKONOS,public,2-6,Cards|Tile placement
 EVL,public,2,
 Earth,public,1-5,Cards|Hand management|Objectives|Engine building
+Earth - Abundance,alpha,1-6,Cards|Hand management|Objectives|Engine building
 Ecliptic Travelers,alpha,2-5,Cards
 Egocentric World,public,2-6,Cards
 El Grande,public,2-5,Area Majority|Auction
@@ -266,10 +281,10 @@ Empire Plateau,public,2,
 Enemy Anemone,beta,2-6,Cards|Trick-taking
 Envelopes of Cash,public,1-4,Cards|Collection|Conquest|Drafting
 EpiZodiak,public,3,Hand management
-Equinox,public,2-5,Hand management|Bluffing|Auction
 Eriantys,public,2-4,Conquest
 Eruption,public,2-6,Tile placement
 Escape: The Curse of the Temple,alpha,1-5,Dice|Cooperative|Speed
+Eternitium,alpha,2-5,Cards|Race|Deck Building
 Ethnos,alpha,2-6,Cards|Area Majority|Race|Collection
 Euchre,beta,2-4,Cards|Team|Auction|Trick-taking
 Evergreen,public,1-4,Cards|Area Majority|Drafting
@@ -279,8 +294,9 @@ Exhibition: 20th Century,alpha,2-5,Cards|Collection
 Exit Strategy,public,2-6,Race
 Expedition: Northwest Passage,public,2-4,Race|Collection
 Expeditions: Around the World,public,2-6,Race
-Exploding Kittens,alpha,2-5,Cards|Bluffing|Push your luck
+Exploding Kittens,beta,2-5,Cards|Bluffing|Push your luck
 Exploration: Warzone,public,2-3,Deck Building
+Expressions,beta,2-6,Cards|Cooperative|Communication
 Factum,public,4-12,Cards|Bluffing|Communication
 Fai-fo,public,3-5,Cards|Hand management|Trick-taking
 Fairy Trails,public,2,Tile placement|Race
@@ -288,11 +304,14 @@ Faraway,public,2-6,Collection|Drafting
 Farkle,beta,1-12,Dice|Random|Push your luck
 Farm Club,public,2-5,Worker placement|Collection
 Federation,public,2-4,Worker placement
-Festi’vibes,beta,2-4,Cards|Hand management
-Fibonachos,alpha,2-5,Cards|Trick-taking
+Festival,beta,2-4,Tile placement|Objectives
+Festi’vibes,public,2-4,Cards|Hand management
+Fibonachos,beta,2-5,Cards|Trick-taking
 Fika,public,2,Cards|Collection
+Finca,alpha,2-5,Collection
 Finity,public,2-4,
 Five Three Five,beta,2-6,Cards|Hand management|Trick-taking
+Five Tribes,alpha,2-4,Worker placement|Collection|Auction
 FiveRealms,alpha,2,
 Flaming Pyramids,public,2-6,Cards|Tile placement
 Fleet,public,2-4,Cards|Hand management|Auction
@@ -302,17 +321,19 @@ Flowers,public,1-4,Tile placement
 Flowers: A Mandala Game,public,2-4,
 Flume,public,2,Area Majority
 Fluxx,public,2-6,Cards|Hand management|Random|Objectives
+For Northwood!,beta,1,Cards|Hand management|Trick-taking|Campaign
 For Sale,public,3-6,Cards|Hand management|Auction
 For-Ex,public,2-6,
+Forage,beta,1,Cards|Tile placement
 Forbidden Island,public,2-4,Race|Collection|Cooperative
 Forest Shuffle,public,2-5,Cards
-Forever Home,beta,1-5,Cards|Hand management|Tile placement|Collection
+Forever Home,public,1-5,Cards|Hand management|Tile placement|Collection
 Forks: 2nd Edition,beta,2-6,Cards|Hand management
 Formula D,alpha,1-10,Dice|Race
 Four Color Cards,public,2-4,Cards|Collection
-Four Gardens,alpha,2-4,
+Four Gardens,beta,2-4,
 Fractal,public,2,Tile placement
-Framework,beta,2-4,Tile placement
+Framework,public,1-4,Tile placement
 French Tarot,public,3-5,Cards|Trick-taking
 Fromage,beta,1-4,Worker placement|Resource management|Engine building
 Fruit Picking,public,1-4,Collection
@@ -320,6 +341,7 @@ GOLDblivion,public,1-4,Cards|Combos|Deck Building
 GORami,public,2,
 Gaia Project,public,1-4,Asymmetrical|Objectives|Resource management|Engine building
 Galactic Era,alpha,1-6,Conquest|Objectives
+Gamme Logic,alpha,1-20,Speed
 Gang of Dice,public,2-4,Dice|Push your luck
 Gangsta!,public,2-4,Cards|Engine building
 Garden Nation,public,2-4,Area Majority|Resource management
@@ -334,15 +356,17 @@ Ghost At Home,public,2-4,Cards|Hand management
 Gift of Tulips,public,2-6,Cards|Area Majority|Collection|Random
 Gin Rummy,public,1-2,Cards|Hand management|Collection
 Ginkgopolis,public,2-5,Tile placement|Resource management|Engine building|Drafting
+Giraffe Raffe,alpha,2-5,Cards|Objectives
 Gizmos,public,2-4,Cards|Combos|Resource management|Engine building
 Glass Road,beta,1-4,Cards
 Glow,public,1-4,Cards|Dice|Collection|Drafting
+Gnome Hollow,beta,2-4,Tile placement
 Go,public,2,
 Go Fish,beta,2-6,Cards|Collection
 Go Goa,public,1-6,Dice|Roll & Write
 Go Nuts for Donuts,public,2-6,Cards|Combos|Collection|Auction
 Go-Stop,beta,2-6,Cards|Hand management|Collection|Objectives|Push your luck
-Goblin Hood,beta,2-4,
+Goblin Hood,public,2-4,
 Gold West,public,2-4,Collection|Objectives|Resource management
 Gold’n’Crash,beta,2,Cards
 Golems,alpha,2,
@@ -358,6 +382,7 @@ Grandmaster,alpha,2,
 Gravity Superstar,alpha,2-6,
 Great Western Trail,public,2-4,Cards|Hand management|Collection|Deck Building
 Grosstarock,public,2-4,Cards|Trick-taking
+Grove,beta,1,Cards|Tile placement
 Grove,alpha,2-4,
 GrumbleStone,public,2-4,Dice|Tile placement
 Grund,beta,2-4,Worker placement|Bluffing|Area Majority|Collection|Auction|Objectives
@@ -380,6 +405,8 @@ Hand and Foot,public,2-10 or 12,Cards|Hand management|Collection
 Happy City,public,2-5,Cards|Collection
 Harbour,alpha,1-4,
 Hardback,public,1-5,Cards|Combos|Cooperative|Push your luck|Word games|Deck Building
+Harmonies,alpha,1-4,Tile placement|Objectives
+Harvest,alpha,1-4,Worker placement
 Hats,alpha,2-4,Cards|Hand management|Collection
 Hawaii,public,2-5,Worker placement|Tile placement|Collection|Resource management
 Hawaiian Hanafuda,beta,2-7,Cards|Hand management|Collection
@@ -391,8 +418,8 @@ Herd,public,2,Dice
 Herooj,public,2,
 Herrlof,public,2-3,Cards|Hand management|Trick-taking
 Hex,public,2,
-Hidden Leaders,beta,2-6,
-High Season,beta,2-4,Roll & Write
+Hidden Leaders,public,2-6,Cards|Area Majority
+High Season,public,2-4,Roll & Write
 Hive,public,2,Tile placement
 Hoarders,public,3-6,Cards|Bluffing|Collection
 Hokito,public,2,
@@ -416,7 +443,7 @@ In The Year of the Dragon,public,2-5,Hand management
 Incan Gold,public,3-8,Bluffing|Race|Push your luck
 Indian Chief,alpha,1-8,
 Innovation,public,2-4,Cards|Combos|Race|Collection
-Insert,public,2,
+Inside Job,alpha,3-5,Cards|Cooperative|Communication|Trick-taking
 Inverted Dice,beta,1-5,Dice
 Isaac,public,2,Tile placement
 Isle of Trains: All Aboard,public,2-4,Hand management|Drafting
@@ -436,6 +463,7 @@ Kabaleo,public,2-4,Bluffing|Tile placement
 Kahuna,public,2,Hand management|Area Majority
 Kalah,public,2,
 Kami,public,2-4,Cards|Hand management|Team
+Kamon,alpha,2,
 Keyflower,public,2-6,Worker placement|Tile placement|Collection|Auction|Objectives
 Khiva,beta,2-5,Cards|Bluffing
 Khronos,public,2-5,Tile placement|Area Majority
@@ -445,6 +473,7 @@ Kingdom Builder,public,2-5,Area Majority|Conquest
 Kingdomino,public,2-4,Tile placement
 Kingdoms,public,3-5,Cards|Auction
 Kings in the Corner,beta,1-6,Cards|Hand management
+Kiri-ai: The Duel,alpha,2,
 Klaverjassen,public,4,Cards|Team|Trick-taking
 Kmakici Family's greatest teatime,public,2-5,Cards|Collection
 Knarr,public,2-4,Cards|Engine building
@@ -459,7 +488,7 @@ Kulami,public,2,
 L'Oracle B.A-BET,beta,2-5,Cards|Area Majority
 LLAMA,public,2-6,Cards|Hand management|Push your luck
 La Granja,public,1-4,Cards|Dice|Worker placement|Hand management|Resource management
-La Marche du Crabe,public,2,Cards|Tile placement|Cooperative|Resource management|Legacy
+La Marche du Crabe,public,2,Cards|Tile placement|Cooperative|Resource management|Campaign
 Lady's Choice,beta,2-6,Cards|Voting
 Lancaster,alpha,3-5,Worker placement|Area Majority
 Las Vegan,public,2-5,Cards|Trick-taking
@@ -495,8 +524,8 @@ Love Letter,public,3-8,Cards|Roles
 Lucky Numbers,public,2-4,Tile placement|Race|Random
 Ludo,beta,2-4,Dice|Race|Random
 Lumen: The Lost World,public,2,Tile placement|Area Majority|Conquest|Objectives|Roll & Write
-Lunar,alpha,2 or 4,Cards|Team|Trick-taking
-Lure,alpha,2-5,Dice|Auction
+Lunar,beta,2 or 4,Cards|Team|Trick-taking
+Lure,beta,2-5,Dice|Auction
 Luxor,public,2-4,Hand management|Race|Collection
 MLEM: Space Agency,public,2-5,Push your luck
 MOW,public,2-5,Cards
@@ -518,18 +547,19 @@ Martian Chess,alpha,2,
 Martian Dice,public,2-10,Dice|Collection|Push your luck
 Mascarade,public,4-12,Cards|Bluffing|Roles
 Masters of Renaissance: Lorenzo il Magnifico – The Card Game,beta,2-4,Cards|Resource management|Engine building
-Mate,alpha,2,Cards|Hand management|Trick-taking
+Mate,beta,2,Cards|Hand management|Trick-taking
 Mattock,public,2,Tile placement
 Mech A Dream,public,2-4,Worker placement|Engine building
 Medina,public,2-4,Tile placement|Area Majority
 Medo,public,2,
-MegaJackpot,alpha,2-4,Cards|Collection|Auction|Push your luck
+Mega Jackpot,public,2-4,Cards|Collection|Auction|Push your luck
 Megalomania,public,2-4,Cards|Trick-taking
 Memoir '44,public,2,Cards|Dice|Hand management
 Mercado de Lisboa,public,2-4,Tile placement|Area Majority
 Meridians,public,2,
-Metro,beta,2-6,Tile placement
+Metro,public,2-6,Tile placement
 Metromania,public,2-4,Tile placement
+Metz,beta,2,
 Mia,beta,2-8,Dice|Bluffing|Player elimination
 Micro Dojo,public,2,Worker placement
 Micro Midgard,beta,2,Worker placement
@@ -538,28 +568,30 @@ Mighty,beta,3-7,Cards|Team|Auction|Trick-taking
 Mijnlieff,public,2,
 Mind Up!,public,3-6,Cards
 Minhwatu,public,2-7,Cards|Hand management|Collection
-Mini Rogue,public,1-2,
+Mini Rogue,public,1-2,Dice
 Minnesota Whist,beta,4,Cards
 Mod Ten,public,2-6,Cards|Bluffing|Random
 Mojo,public,2-8,Cards|Hand management
 Monster Factory,public,2-6,Tile placement
 Moon River,public,2-4,
 Morocco,beta,2-5,Tile placement|Area Majority
+Mountain Goats,beta,2-5,Dice
 Mr. Jack,public,2,Bluffing|Asymmetrical
 Mr. Jack Pocket,alpha,2,Asymmetrical
 Murus Gallicus,public,2,
 Mutant Crops,beta,1-4,Cards|Worker placement|Combos
-My City,public,2-4,Tile placement|Legacy
-My City: Roll & Build,public,1-6,Dice|Tile placement|Roll & Write|Legacy
+My City,public,2-4,Tile placement|Campaign
+My City: Roll & Build,public,1-6,Dice|Tile placement|Roll & Write|Campaign
 My First Castle Panic,public,1-4,Cooperative
 My Great Game,alpha,1-2,Objectives
-My Great Game,alpha,2,
 My Shelfie,public,2-4,Tile placement|Collection
-Mythic Battles: Ragnarök,beta,2,
+Mythic Battles: Ragnarök,public,2,
 Mü,beta,4-6,Cards|Team|Auction|Trick-taking
+NIN,alpha,2-4,
 NXS,public,2,
 Nacho Pile,beta,2-6,Drafting
 Nain Jaune,beta,2-8,Cards
+Naishi,alpha,2,Cards
 Nanga Parbat,public,2,Collection
 Nap,beta,2-10,Cards|Auction|Trick-taking
 Narabi,public,3-5,Cards|Hand management|Cooperative
@@ -571,7 +603,7 @@ New York Zoo,public,1-5,Worker placement|Tile placement
 Newton,beta,1-4,Cards|Objectives|Engine building
 Next Station: London,public,1-4,Roll & Write
 Next Station: Paris,public,1-4,Roll & Write
-Next Station: Tokyo,public,1-4,Tile placement
+Next Station: Tokyo,public,1-4,Roll & Write
 Niagara,public,3-5,Race|Collection
 Nicodemus,public,2,Hand management|Combos|Objectives|Resource management
 Nidavellir,public,2-5,Cards|Collection|Drafting
@@ -579,10 +611,12 @@ Nile,public,2-5,Cards|Hand management|Drafting
 Nimalia,beta,2-4,Tile placement|Objectives
 Nine Men's Morris,public,2,
 Nippon,public,2-4,Area Majority|Drafting
+Nirds,alpha,1-4,
 No Thanks!,public,3-7,Cards|Auction
 Noah,public,1-5,Cards|Hand management
 Noir: Killer versus Inspector,public,2,Asymmetrical|Roles
 None Shall Pass!,public,2-4,Dice|Cooperative|Roles
+Norsemen,alpha,2-4,Resource management|Push your luck|Engine building
 North American Railways,alpha,3-5,Cards|Area Majority
 Not Alone,public,2-7,Bluffing|Asymmetrical|Team
 Nova Luna,public,2-4,
@@ -592,6 +626,9 @@ Nylon-ppong,beta,2-6,Cards|Hand management
 OASIS New Hope,public,2-4,Cards|Hand management|Race
 ONE,public,2-6,
 Obsession,public,2-4,Cards|Worker placement|Deck Building|Drafting
+Odicey,alpha,2-4,Dice
+Odin,alpha,2-6,Cards|Hand management
+Of Knights And Ninjas,alpha,3-6,Cards|Combos|Race
 Off the Rails,public,1-4,Tile placement|Race|Collection|Push your luck
 Oh Hell!,public,3-7,Cards|Trick-taking
 Oh-Seven,public,2-9,Cards|Trick-taking
@@ -601,7 +638,8 @@ Once Upon A Forest,public,2-4,Cards|Collection|Drafting
 Onda,beta,2-5,Cards|Hand management|Trick-taking
 Onitama,public,2,
 Open Face Chinese Poker,beta,1-4,Cards|Collection|Push your luck
-Open Season,beta,2-4,Cards|Area Majority
+Open Season,public,2-4,Cards|Area Majority
+Orchard,beta,1,Cards|Tile placement
 Oriflamme,public,3-5,Cards|Hand management|Bluffing
 Origin,public,2-4,Cards|Area Majority
 Orion Duel,public,2,
@@ -616,9 +654,9 @@ Pandemic,public,1-4,Cooperative
 Panic Lab,public,1-10,Speed
 Papayoo,public,3-8,Cards|Trick-taking
 Paris Connection,public,3-6,
-Park Life,alpha,1-8,Cards|Hand management|Collection|Cooperative|Trick-taking
+Park Life,beta,1-8,Cards|Hand management|Collection|Cooperative|Trick-taking
 Patchwork,public,2,Tile placement
-Path of Civilization,alpha,1-5,Worker placement|Hand management
+Path of Civilization,public,1-5,Worker placement|Hand management
 Pax Pamir: Second Edition,public,1-5,Cards|Area Majority
 Pax Renaissance,public,2-4,Cards
 Pedro,public,4,Cards|Team|Trick-taking
@@ -627,10 +665,11 @@ Penny Press,public,3-5,Worker placement|Tile placement|Area Majority|Auction
 Pente,public,2-4,Team
 Perfect Words,public,2-6,Cooperative|Word games
 Perikles,beta,3-5,
+Persona Non Grata,alpha,2-4,Cards|Hand management|Drafting
 Perudo,public,2-6,Dice|Bluffing|Auction|Player elimination
 Pescado Novo,beta,2-4,Cards|Hand management|Collection|Team
 Phat,public,4,Cards|Trick-taking
-Photosynthesis,public,2-4,Worker placement
+Photosynthesis,public,2-4,Area Majority
 Piepmatz,beta,2-4,
 Pier 18,public,2-3,Cards|Tile placement|Objectives|Drafting
 Pingimus,public,3-12,Voting
@@ -647,8 +686,9 @@ Polis: Fight for Hegemony,public,2,Dice|Area Majority|Asymmetrical|Conquest
 Pom Pom,alpha,2-6,Cards|Collection
 Pond,beta,2,
 Ponte del Diavolo,public,2,Tile placement
-Pook,public,2-4,
+Pook,public,2-4,Cards|Tile placement
 Potion Explosion,public,2-6,Combos|Collection
+Power Vacuum,beta,1-5,Cards|Hand management|Trick-taking|Resource management
 Praga Caput Regni,public,2-4,
 President,public,2-8,Cards|Hand management|Trick-taking
 Puerto Rico,public,2-5,Resource management|Roles
@@ -657,13 +697,15 @@ Puzzle Strike 2,alpha,1-4,Cards|Combos|Asymmetrical|Deck Building
 Pylos,public,2,
 Pyramid Poker,public,2,Tile placement
 Pyrga,public,2,
-Qamgo,alpha,2,
+Qango,beta,2,
 Qawale,public,2,Tile placement
+Qo,alpha,2,Dice
 Qu4to,beta,2-5,Cards|Hand management|Trick-taking
 Quantik,public,2,
 Quantum,public,2-4,Dice|Race|Conquest
+Quartermaster General: East Front,alpha,1-2,Cards|Conquest
 Quarto,public,2,
-Quattuor Reges,beta,2,Cards|Race
+Quattuor Reges,beta,2,Race
 Queens & Kings... A Checkers Game,public,2 or 4,
 Quetzal,public,2-5,Worker placement|Hand management|Collection
 Quibbles,public,2-5,Cards|Hand management|Collection
@@ -680,6 +722,7 @@ Rainbow,public,2,Cards
 Rainforest,public,2-4,Tile placement|Collection|Objectives
 Rallyman: DIRT,beta,1-6,Dice|Race
 Rallyman: GT,public,1-6,Dice|Race|Push your luck
+Ratjack,alpha,2-4,Cards|Player elimination
 Raubbau,beta,3-5,Bluffing|Push your luck
 Rauha,public,2-5,
 Red7,public,2-4,Cards|Hand management|Collection|Player elimination
@@ -690,16 +733,18 @@ Regicide,public,1-4,Cards|Hand management|Combos|Cooperative
 Regidice,public,1-4,Dice|Combos|Collection|Cooperative|Roles
 Remember When,public,3-6,Cards|Communication|Team
 Res Arcana,public,2-5,Cards|Hand management|Combos|Race|Asymmetrical|Resource management|Engine building
+Resolve,beta,2,Tile placement
 Rest In Peace,public,2,Cards|Hand management|Area Majority
 Reversi,public,2,
 Rift Valley Reserve,public,2-5,Race
 Riftforce,beta,2,
 Rive,public,2,Area Majority
-River Valley Glassworks,beta,2-5,
-River of Gold,beta,2-4,Worker placement|Area Majority|Objectives|Resource management
-Road to 300,beta,1-6,Dice|Roll & Write
+River Valley Glassworks,public,2-5,
+River of Gold,public,2-4,Worker placement|Area Majority|Objectives|Resource management
+Road to 300,public,1-6,Dice|Roll & Write
 Robots Ate Our Pizza,public,2-6,Cards|Cooperative
 Roll Into Town,public,1-8,Dice|Roll & Write
+Roll Through the Ages: The Iron Age,alpha,2-4,
 Roll for the Galaxy,public,2-5,Dice|Resource management|Engine building
 Roll to the Top: Journeys,public,1-6,Race|Roll & Write
 Roll'n Bump,public,2-5,Cards|Dice|Collection|Push your luck
@@ -714,6 +759,7 @@ SETUP,public,2-4,Cards|Hand management|Tile placement|Combos|Team
 Saboteur,public,2-12,Cards|Bluffing|Team|Roles
 Sagani,public,1-4,Tile placement
 Sahwari,public,2-4,Collection
+Sail,beta,2,Cards|Cooperative|Trick-taking|Campaign
 Saint Petersburg,public,2-4,Cards|Hand management|Collection|Engine building
 Saint Poker,public,2-5,Cards|Hand management
 Samarkand,beta,2-5,Resource management
@@ -723,8 +769,8 @@ Sasaki,beta,3-4,Cards|Hand management|Team|Trick-taking
 Schnapsen,beta,2,Cards|Hand management|Trick-taking
 Schrödinger's Cats,public,2-6,Cards|Bluffing|Push your luck|Player elimination
 Scopa,public,2-4 or 6,Cards|Hand management|Collection|Team
-Scriptoria,beta,2-4,
-Scythe,alpha,2-5,
+Scriptoria,beta,2-4,Tile placement|Collection|Resource management
+Scythe,beta,2-5,
 Sea Salt & Paper,public,2-4,Cards|Hand management|Combos|Collection
 Seasons,public,2-4,Cards|Dice|Combos
 Secret Moon,public,5-8,Team|Roles
@@ -749,6 +795,7 @@ Silo,public,2,Race
 Silver : Amulet,alpha,2-4,Cards
 Similo,public,2-8,Cards|Cooperative|Communication|Roles|Voting
 Simplicity,public,2-6,Tile placement|Drafting
+Sirens,alpha,2,Cards
 Skat,public,3,Cards|Team|Trick-taking
 Skate Legend,public,2-5,Cards|Push your luck
 Skull,public,3-6,Bluffing|Player elimination
@@ -756,6 +803,7 @@ Sky Team,public,2,Dice|Cooperative|Communication
 Slide,public,2-6,Tile placement
 Slobberhannes,alpha,3-6,Cards|Trick-taking
 Small Islands,public,2-4,Tile placement|Objectives
+Small World,alpha,2-5,Conquest
 Snekagon,alpha,2,Tile placement
 Snow Time,alpha,2-5,
 Sobek,public,2-4,Cards|Hand management|Combos|Collection|Drafting
@@ -771,7 +819,7 @@ Space Empires: 4X,public,1-4,
 Space Station Phoenix,public,2-4,Cards|Combos
 Spades,public,4,Cards|Team|Auction|Trick-taking
 Sparts,public,4,Cards|Trick-taking
-SpellBook,beta,1-4,Cards|Resource management
+SpellBook,public,1-4,Cards|Resource management
 Spirits of the Forest,public,2-4,Collection|Drafting
 Spite and Malice,beta,1-4,Cards|Hand management
 Splash Down,public,2-6,Dice|Push your luck
@@ -795,16 +843,18 @@ Stockpile,public,2-5,
 Stone Age,public,2-5,Dice|Worker placement|Collection|Resource management
 Stonks,beta,2-5,Cards|Trick-taking
 Strands,public,2,
+Strawberry Sunset,alpha,2-4,Cards|Tile placement
 Streets,public,1-5,Hand management|Tile placement
-Stupor Mundi,beta,1-4,Asymmetrical|Resource management|Deck Building
+Stupor Mundi,public,1-4,Asymmetrical|Resource management|Deck Building
 Super Fantasy Brawl,public,2,Cards|Combos|Area Majority|Asymmetrical
 Super Mega Lucky Box,public,1-12,Random
 Sushi Go Party!,public,2-8,Cards|Collection|Drafting
 Sushi Go!,public,2-5,Cards|Collection|Drafting
 Tablut,public,2,
+Taiji,alpha,2,
 Takara Island,public,2-4,Worker placement|Race|Push your luck
 Takenoko,public,2-4,Race|Objectives
-Takenokolor,beta,2-4,Roll & Write
+Takenokolor,alpha,2-4,Roll & Write
 Talon,public,1-2,
 Taluva,public,2-5,Tile placement
 Tang Hu Lu,public,2-4,Tile placement|Collection
@@ -818,10 +868,10 @@ Tea Time,public,2-4,Collection
 Templari,alpha,3-5,Cards|Collection
 Teotihuacan: City of Gods,public,2-4,Worker placement|Tile placement|Collection|Resource management
 Terra Mystica,public,2-5,Worker placement|Area Majority|Resource management
-Terra Mystica: Age of Innovation,alpha,2-5,Worker placement|Tile placement|Area Majority
+Terra Mystica: Age of Innovation,beta,2-5,Worker placement|Tile placement|Area Majority
 Terra Nova,public,2-4,Worker placement|Tile placement|Area Majority
 Terraforming Mars,public,1-5,Cards|Tile placement
-That Time You Killed Me,beta,2,
+That Time You Killed Me,public,2,
 That's Life!,public,2-6,Dice
 The Battle for Hill 218,public,2,Cards|Hand management|Tile placement
 The Bloody Inn,alpha,1-4,
@@ -830,10 +880,10 @@ The Brambles,beta,1,Cards|Hand management|Collection
 The Builders: Antiquity,public,2-4,Cards|Race
 The Builders: Middle Ages,public,2-4,Cards|Race|Engine building
 The Castles of Burgundy,public,2-4,Dice|Tile placement|Collection|Objectives
-The Crew,public,2-5,Cards|Cooperative|Objectives|Trick-taking|Legacy
-The Crew: Mission Deep Sea,public,2-5,Cards|Cooperative|Objectives|Trick-taking|Legacy
+The Crew,public,2-5,Cards|Cooperative|Objectives|Trick-taking|Campaign
+The Crew: Mission Deep Sea,public,2-5,Cards|Cooperative|Objectives|Trick-taking|Campaign
 The Fox in the Forest,beta,2,Cards|Hand management|Trick-taking
-The Fox in the Forest: Duet,alpha,2,Cards|Hand management|Cooperative|Trick-taking
+The Fox in the Forest: Duet,beta,2,Cards|Hand management|Cooperative|Trick-taking
 The Gnomes of Zavandor,public,2-4,Cards|Collection|Engine building
 The Great American Fox Hunt,beta,1-6,Cards|Hand management
 The Great Split,public,2-7,Cards|Hand management|Combos
@@ -847,11 +897,12 @@ The Nine Domains,beta,2,Cards|Bluffing
 The Number,public,3-5,Auction
 The Palaces of Carrara,public,2-4,Tile placement|Collection
 The Ruhr: A Story of Coal Trade,public,2-4,Dice|Worker placement|Combos
-The Shipwreck Arcana,beta,2-5,Cards|Hand management|Cooperative|Communication
+The Shipwreck Arcana,public,2-5,Cards|Hand management|Cooperative|Communication
 The Vale of Eternity,public,2-4,Cards|Combos|Collection
 The Voyages of Marco Polo,public,2-4,Dice|Worker placement|Asymmetrical|Objectives|Resource management
 The Werewolves of Miller's Hollow,public,8-12,Bluffing|Roles|Voting|Player elimination
 The Wolves,public,2-5,Area Majority|Resource management
+The Yellow House,alpha,2,Cards|Hand management
 The way to Juliet,beta,2,Cooperative
 Thermopyles,public,1,Dice|Hand management
 Tholos,beta,2,
@@ -866,7 +917,7 @@ Ticket Gagnant,public,1-6,
 Ticket to Ride,public,2-5,Hand management|Objectives
 Ticket to Ride: Europe,public,2-5,Objectives
 Tigris & Euphrates,public,2-4,Hand management|Tile placement|Area Majority|Collection
-Tikal,alpha,2-4,Tile placement|Area Majority
+Tikal,beta,2-4,Tile placement|Area Majority
 Tiki,public,2,Area Majority
 Time Masters,public,2-4,Cards|Hand management|Deck Building|Drafting
 Timeline Twist,public,2-6,Cards|Cooperative|Communication|Player elimination
@@ -875,7 +926,7 @@ Tiny Epic Defenders (Second Edition),public,1-4,Cooperative
 Tiny Farms,public,2-4,Dice|Collection
 Tiny Turbo Cars,beta,2-4,Race
 Tiwanaku,public,1-4,Worker placement
-Tiến Lên,beta,2-4,Cards|Hand management|Trick-taking
+Tiến Lên,public,2-4,Cards|Hand management|Trick-taking
 Tobago,public,2-4,Hand management|Race
 Tock,public,2-6,Cards|Hand management|Race|Team
 ToeShamBo,public,2,Cards|Hand management
@@ -890,6 +941,7 @@ Trasteros Locos: Crazy Auctions,alpha,3-6,Cards|Collection
 Trek 12,public,1-8,Dice|Combos|Roll & Write
 Trekking the World,public,2-5,Hand management|Collection
 Trellis,beta,2-4,Tile placement
+Treos,beta,2-4,
 TriATri,beta,2-4,Cards|Trick-taking
 Trick of the Rails,public,3-5,Cards|Hand management|Trick-taking
 Trike,public,2,
@@ -899,6 +951,7 @@ Troyes,public,2-4,Dice|Worker placement|Collection|Objectives
 Troyes Dice,public,1-10,Dice|Roll & Write
 Trusis,public,5-30,Bluffing|Communication|Team|Voting|Player elimination
 Tucano,public,2-4,Cards|Area Majority|Collection
+Tulip & Rose,alpha,3-6,Cards|Collection|Auction
 Tumbleweed,public,2,Tile placement|Area Majority
 Tuned,beta,2,Tile placement
 Turing Machine,public,1-4,Objectives
@@ -928,7 +981,7 @@ VektoRace,public,2-6,Race
 Veletas,public,2,Area Majority
 Verona Twist,public,2,Asymmetrical|Roles
 Via Magica,public,2-6,Hand management|Combos|Collection
-Vidrasso,beta,2,Trick-taking
+Vidrasso,public,2,Trick-taking
 Villagers,public,2-5,Cards|Collection
 Viticulture,public,1-6,Worker placement|Race|Objectives|Engine building
 Volto,public,2,
@@ -962,12 +1015,12 @@ Yspahan,alpha,2-4,
 Zefiria,public,1-4,Cooperative
 Zener,public,2,
 Zola,public,2,
-Zookeepers,alpha,2-4,Cards|Collection|Drafting
+Zookeepers,beta,2-4,Cards|Collection|Drafting
 Zooloretto,beta,2-5,Collection
 Zuuli,public,1-6,Cards|Collection|Drafting
-backgammonmatchplay,alpha,2,Dice
 boop.,public,2,
 cucco,public,3-12,Push your luck
 innovationalpha,alpha,2-5,Cards|Combos|Area Majority|Race|Collection
-lewisclarksecondedition,alpha,1-5,Cards|Worker placement
+karvi,alpha,2-4,Cards|Dice|Resource management
+nanatoridori,alpha,3-6,Cards|Trick-taking
 Écarté,beta,2,Cards|Bluffing|Trick-taking|Push your luck
