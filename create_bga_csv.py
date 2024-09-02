@@ -106,7 +106,7 @@ def write_to_csv(data: List[Tuple[str, str, str]], filename: str) -> None:
     """
     with open(filename, 'w', newline='') as csvfile:
         csvwriter = csv.writer(csvfile)
-        csvwriter.writerow(['Name', 'Status', 'Players'])
+        csvwriter.writerow(['Name', 'Status', 'Players', 'Mechanisms'])
         csvwriter.writerows(sorted(data, key=lambda x: x[0]))
 
 
@@ -141,7 +141,8 @@ def main():
     for script in scripts:
         if 'globalUserInfos' in script.text:
             # Use regular expression to extract the value of globalUsersInfo
-            match = re.search(r'globalUserInfos\s*=\s*({.*?});', script.text, re.DOTALL)
+            match = re.search(r'globalUserInfos\s*=\s*({.*?});\s*(?=\n|$)', script.text, re.DOTALL)
+
             if match:
                 global_users_info = match.group(1)
                 break
@@ -158,7 +159,7 @@ def main():
     processed_data = process_data(game_list, tag_dict)
 
     # Create a filename
-    filename = 'bga-gamelist.csv'
+    filename = 'bga-games.csv'
 
     print(f'Writing to {filename}')
     write_to_csv(processed_data, filename)
